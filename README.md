@@ -26,7 +26,7 @@ Resources for science writers
 * Dean, Cornelia, Am I Making Myself Clear?, Harvard University Press, 2009.
 * Hancock, Elise, Ideas Into Words: Mastering the Craft of Science Writing
 * Hayden, Thomas and Michelle Nijhuis, eds., The Science Writers’ Handbook: Everything you Need to Know to Pitch, Publish, and Prosper in the Digital Age. Writers of SciLance.
-* Meredith, Dennis, Explaining Research: How to Reach Key Audiences to Advance Your Work, Oxford University Press, 2010. Accompanying Web site: http://dennismeredith.com/explaining-research_397.html
+* Meredith, Dennis, Explaining Research: How to Reach Key Audiences to Advance Your Work, Oxford University Press, 2010. http://dennismeredith.com/explaining-research_397.html
 * Nelkin, Dorothy, Selling Science: How the Press Covers Science and Technology (1995, paperback)          
 * Strunk, William, Elements of Style.
 * Zinssner, William, On Writing Well: The Classic Guide to Writing Nonfiction 30th anniversary edition (2006, paperback).
@@ -51,33 +51,33 @@ Resources for science writers
 * Writer’s Digest: http://www.writersdigest.com
 
 ## Graduate programs in science writing and journalism
-* Johns Hopkins Master of Arts in Science Writing (flexible online program with some residency requirements; 9 courses for M.A. in Science Writing; 5 courses for certificate; can also take single course(s) but talk to the director about what’s best) http://advanced.jhu.edu/academics/graduate-degree-programs/science-writing/
-* Director: Melissa Hendricks, mhendri1@jhu.edu
-* New York University: https://journalism.nyu.edu/graduate/programs/science-health-and-environmental-reporting/
-* UC Santa Cruz (certificate program): https://scicom.ucsc.edu
-* MIT: http://sciwrite.mit.edu/
-* American University (Washington, DC), journalism programs: http://www.american.edu/soc/journalism/index.cfm
-* University of Maryland Online science/technical/professional communications program: https://www.graduate.umaryland.edu/scicomm/Academics/Courses/
+* Johns Hopkins University: http://advanced.jhu.edu/academics/graduate-degree-programs/science-writing/
+* New York University (NYU) Science, Health and Environmental Reporting Program: https://journalism.nyu.edu/graduate/programs/science-health-and-environmental-reporting/
+* University of California Santa Cruz (UCSC) Science Communication Program: https://scicom.ucsc.edu
+* Massachusetts Institute of Technology (MIT) Graduate Program in Science Writing: http://sciwrite.mit.edu/
+* American University Journalism Program: http://www.american.edu/soc/journalism/index.cfm
+* University of Maryland Online Science Communication coursework: https://www.graduate.umaryland.edu/scicomm/Academics/Courses/
 
 ## Internships, fellowships, and other opportunities
-* AAAS Science and Technology Fellowships: https://www.aaas.org/page/fellowships
-* AAAS Internships at Science News, Science Web, and other: https://www.aaas.org/page/internship-opportunities
+* American Association for the Advancement of Science (AAAS)
+  * Science and Technology Fellowships: https://www.aaas.org/page/fellowships
+  * Internships at Science News, Science Web, and other publications: https://www.aaas.org/page/internship-opportunities
 * Curious Science Writers: https://curioussciencewriters.org
 * National Public Radio (NPR): https://www.npr.org/about-npr/181881227/want-to-be-an-npr-intern
-* NCI Health Communications Fellows: https://hcip.nci.nih.gov/hcip/AppInformation.html
-* NIH administrative programs including Management Intern Program and Presidential Management Fellows: https://trainingcenter.nih.gov/intern/
+* National Cancer Institute (NCI) Health Communications Fellows: https://hcip.nci.nih.gov/hcip/AppInformation.html
+* National Institutes of Health (NIH) administrative programs including Management Intern Program and Presidential Management Fellows: https://trainingcenter.nih.gov/intern/
 * The Jackson Lab: https://education.jax.org/summerstudent/research-areas.html
-* SLAC National Accelerator Lab (Menlo Park, Calif.): https://www-group.slac.stanford.edu/com/internships_fellowships.htm
+* SLAC National Accelerator Lab: https://www-group.slac.stanford.edu/com/internships_fellowships.htm
 
 ## Publications
 * Best American Science Writing (a book comes out yearly)
 * Discover: http://discovermagazine.com/
 * Nature news: https://www.nature.com/news/
-* NIH
-  * NIH Catalyst: https://irp.nih.gov/catalyst/ (e-mail catalyst@nih.gov)
-  * NIH Director’s Blog: https://directorsblog.nih.gov
-  * NIH IRP Blog: https://irp.nih.gov/blog
-* New York Times—Science Times section on Tuesdays: https://www.nytimes.com/pages/science/index.html
+* National Institutes of Health (NIH)
+  * The Catalyst: https://irp.nih.gov/catalyst/ (e-mail catalyst@nih.gov)
+  * Director’s Blog: https://directorsblog.nih.gov
+  * Intramural Research Program (IRP) Blog: https://irp.nih.gov/blog
+* New York Times (NYT) Science Times: https://www.nytimes.com/pages/science/index.html
 * Popular Science: https://www.popsci.com/
 * Science: www.sciencemag.org
 * Science News: https://www.sciencenews.org/
