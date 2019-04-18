@@ -37,7 +37,7 @@ Resources for science writers. Contributions welcome (see: https://github.com/Hu
 * Columbia Journalism Review: https://www.cjr.org/
 * Council for the Advancement of Science Writing (CASW): http://casw.org/
   * Guide to careers in science writing: http://casw.org/casw/guide-careers-science-writing
-* Cub Reporters Journalism Education http://cubreporters.org/education.html
+* Cub Reporters Journalism Education: http://cubreporters.org/education.html
 * DC Science Writers Association DCSWA (DC Science Writers Association): http://www.dcswa.org
 * Journalist's Resource https://journalistsresource.org/
 * Knight Science Journalism (KSJ): https://ksj.mit.edu
