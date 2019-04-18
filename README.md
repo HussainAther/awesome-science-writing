@@ -1,6 +1,6 @@
 # Awesome science writing
 
-Resources for science writers. Contributions welcome (see: https://github.com/HussainAther/awesome-science-writing/blob/master/contributing.md)
+Resources for science writers. Contributions welcome (see: https://github.com/HussainAther/awesome-science-writing/blob/master/contributing.md).
 
 # [Table of contents](#Table-of-contents)
 
