@@ -41,7 +41,7 @@ Resources for science writers. Contributions welcome (see: https://github.com/Hu
 * DC Science Writers Association DCSWA (DC Science Writers Association): http://www.dcswa.org
 * Journalist's Resource https://journalistsresource.org/
 * Knight Science Journalism (KSJ): https://ksj.mit.edu
-* National Association of Science Writers (NASW): httpS://www.nasw.org/
+* National Association of Science Writers (NASW): https://www.nasw.org/
 * NIH science writers listserv (SWANIH-L): https://list.nih.gov/cgi-bin/wa.exe?A0=swanih-l
 * University Research Magazine Association (URMA) httpS://www.urma.org/
 * Pew Research Center for Journalism and Media: http://www.journalism.org/resources/j_tools
