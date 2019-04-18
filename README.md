@@ -79,7 +79,7 @@ Resources for science writers. Contributions welcome (see: https://github.com/Hu
 * SLAC National Accelerator Lab: https://www-group.slac.stanford.edu/com/internships_fellowships.htm
 
 ## Publications
-* Best American Science Writing`: https://en.wikipedia.org/wiki/The_Best_American_Science_Writing
+* Best American Science Writing: https://en.wikipedia.org/wiki/The_Best_American_Science_Writing
 * Discover: http://discovermagazine.com/
 * Nature news: https://www.nature.com/news/
 * National Institutes of Health (NIH)
