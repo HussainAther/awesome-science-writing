@@ -32,7 +32,8 @@ Resources for science writers. Contributions welcome (see: https://github.com/Hu
 * Zinssner, William, *On Writing Well: The Classic Guide to Writing Nonfiction 30th anniversary edition* (2006, paperback).
 
 ## Organizations
-* American Association of Medical Writers (AMWA): (http://www.amwa.org)
+* American Association of Medical Writers (AMWA): http://www.amwa.org
+* Columbia Journalism Review: https://www.cjr.org/
 * Council for the Advancement of Science Writing (CASW): http://casw.org/
   * Guide to careers in science writing: http://casw.org/casw/guide-careers-science-writing
 * Cub Reporters Journalism Education http://cubreporters.org/education.html
