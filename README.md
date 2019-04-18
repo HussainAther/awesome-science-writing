@@ -1,6 +1,6 @@
 # Awesome science writing
 
-Resources for science writers
+Resources for science writers. Contributions welcome. 
 
 # [Table of contents](#Table-of-contents)
 
@@ -70,7 +70,7 @@ Resources for science writers
 * SLAC National Accelerator Lab: https://www-group.slac.stanford.edu/com/internships_fellowships.htm
 
 ## Publications
-* Best American Science Writing (a book comes out yearly)
+* Best American Science Writing`: https://en.wikipedia.org/wiki/The_Best_American_Science_Writing
 * Discover: http://discovermagazine.com/
 * Nature news: https://www.nature.com/news/
 * National Institutes of Health (NIH)
