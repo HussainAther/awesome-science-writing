@@ -20,16 +20,16 @@ Resources for science writers. Contributions welcome.
 * From Council for the Advancement of Science Writing: http://casw.org/casw/how-do-i-get-started-science-writing
 
 ## Books and articles
-* Baron, Nancy, Escape from the Ivory Tower, Island Press, 2010.
-* Blum, Deborah and Mary Knudson, eds., A Field Guide for Science Writers: The Official Guide of the National Association of Science Writers, Oxford University Press, 2005. 
-* Cohn, Victor; Cope, Lew; News and Numbers: A Guide to Reporting Statistical Claims and Controversies in Health and Related Fields, 2nd ed. (2001). 
-* Dean, Cornelia, Am I Making Myself Clear?, Harvard University Press, 2009.
-* Hancock, Elise, Ideas Into Words: Mastering the Craft of Science Writing
-* Hayden, Thomas and Michelle Nijhuis, eds., The Science Writers’ Handbook: Everything you Need to Know to Pitch, Publish, and Prosper in the Digital Age. Writers of SciLance.
-* Meredith, Dennis, Explaining Research: How to Reach Key Audiences to Advance Your Work, Oxford University Press, 2010. http://dennismeredith.com/explaining-research_397.html
-* Nelkin, Dorothy, Selling Science: How the Press Covers Science and Technology (1995, paperback)          
-* Strunk, William, Elements of Style.
-* Zinssner, William, On Writing Well: The Classic Guide to Writing Nonfiction 30th anniversary edition (2006, paperback).
+* Baron, Nancy, *Escape from the Ivory Tower*, Island Press, 2010.
+* Blum, Deborah and Mary Knudson, eds.,* A Field Guide for Science Writers: The Official Guide of the National Association of Science Writers*, Oxford University Press, 2005. 
+* Cohn, Victor; Cope, Lew; *News and Numbers: A Guide to Reporting Statistical Claims and Controversies in Health and Related Fields*, 2nd ed. (2001). 
+* Dean, Cornelia, *Am I Making Myself Clear?*, Harvard University Press, 2009.
+* Hancock, Elise, *Ideas Into Words: Mastering the Craft of Science Writing*
+* Hayden, Thomas and Michelle Nijhuis, eds., *The Science Writers’ Handbook: Everything you Need to Know to Pitch, Publish, and Prosper in the Digital Age*. Writers of SciLance.
+* Meredith, Dennis, *Explaining Research: How to Reach Key Audiences to Advance Your Work*, Oxford University Press, 2010. http://dennismeredith.com/explaining-research_397.html
+* Nelkin, Dorothy, *Selling Science: How the Press Covers Science and Technology* (1995, paperback)          
+* Strunk, William and E.B. White, *Elements of Style*.
+* Zinssner, William, *On Writing Well: The Classic Guide to Writing Nonfiction 30th anniversary edition* (2006, paperback).
 
 ## Organizations
 * American Association of Medical Writers (AMWA): (http://www.amwa.org)
@@ -51,12 +51,21 @@ Resources for science writers. Contributions welcome.
 * Writer’s Digest: http://www.writersdigest.com
 
 ## Graduate programs in science writing and journalism
-* Johns Hopkins University: http://advanced.jhu.edu/academics/graduate-degree-programs/science-writing/
+* American University
+  * M.A. in Journalism & Public Affairs: https://www.american.edu/soc/journalism/MA/MA-JUPA.cfm
+  * M.A. in Journalism & Storytelling: https://www.american.edu/soc/journalism/MA/MA-JDS.cfm
+* Columbia University
+  * Single degree   
+    * M.S. in Journalism: https://journalism.columbia.edu/ms-degree
+    * M.S. in Data Journalism: https://journalism.columbia.edu/ms-data-journalism
+  * Dual degree https://journalism.columbia.edu/dual-degree-programs
+    * M.S. in Journalism and Computer Science https://journalism.columbia.edu/journalism-computer-science
+* Johns Hopkins University M.A. in Science Writing: http://advanced.jhu.edu/academics/graduate-degree-programs/science-writing/
+* Massachusetts Institute of Technology (MIT) M.S. in Science Writing: http://sciwrite.mit.edu/
 * New York University (NYU) Science, Health and Environmental Reporting Program: https://journalism.nyu.edu/graduate/programs/science-health-and-environmental-reporting/
-* University of California Santa Cruz (UCSC) Science Communication Program: https://scicom.ucsc.edu
-* Massachusetts Institute of Technology (MIT) Graduate Program in Science Writing: http://sciwrite.mit.edu/
-* American University Journalism Program: http://www.american.edu/soc/journalism/index.cfm
-* University of Maryland Online Science Communication coursework: https://www.graduate.umaryland.edu/scicomm/Academics/Courses/
+* Stanford University M.A. in Journalism: http://journalism.stanford.edu/
+* University of California Santa Cruz (UCSC) M.S. Science Communication Program: https://scicom.ucsc.edu
+* University of Maryland Science Communication coursework: https://www.graduate.umaryland.edu/scicomm/Academics/Courses/
 
 ## Internships, fellowships, and other opportunities
 * American Association for the Advancement of Science (AAAS)
