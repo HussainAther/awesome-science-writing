@@ -97,4 +97,4 @@ Resources for science writers. Contributions welcome (see: https://github.com/Hu
 * Scientific American:  https://www.scientificamerican.com
 * Smithsonian magazine: https://www.smithsonianmag.com/
 * Washington Post (health/sci): https://www.washingtonpost.com/national/health-science
-* Wired:  https://www.wired.co
+* Wired: https://www.wired.co
