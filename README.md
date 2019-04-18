@@ -33,6 +33,7 @@ Resources for science writers. Contributions welcome (see: https://github.com/Hu
 
 ## Organizations
 * American Association of Medical Writers (AMWA): http://www.amwa.org
+* American Journalism Review: http://www.ajr.org/
 * Columbia Journalism Review: https://www.cjr.org/
 * Council for the Advancement of Science Writing (CASW): http://casw.org/
   * Guide to careers in science writing: http://casw.org/casw/guide-careers-science-writing
