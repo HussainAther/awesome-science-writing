@@ -89,7 +89,7 @@ Resources for science writers. Contributions welcome (see: https://github.com/Hu
 *   Discover: [http://discovermagazine.com/](http://discovermagazine.com/)
 *   Nature news: [https://www.nature.com/news/](https://www.nature.com/news/)
 *   National Institutes of Health (NIH)
-    *   The Catalyst: [https://irp.nih.gov/catalyst/](https://irp.nih.gov/catalyst/) (e-mail [catalyst@nih.gov])
+    *   The Catalyst: [https://irp.nih.gov/catalyst/](https://irp.nih.gov/catalyst/) (email [catalyst@nih.gov])
     *   Director’s Blog: [https://directorsblog.nih.gov](https://directorsblog.nih.gov)
     *   Intramural Research Program (IRP) Blog: [https://irp.nih.gov/blog](https://irp.nih.gov/blog)
 *   New York Times (NYT) Science Times: [https://www.nytimes.com/pages/science/index.html](https://www.nytimes.com/pages/science/index.html)
