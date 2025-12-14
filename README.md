@@ -2,6 +2,19 @@
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
+> ## ⭐ Top 5 resources (start here)
+>
+> **New to science writing or short on time?** These five resources cover fundamentals, craft, and career paths:
+>
+> 1. **CASW – How do I get started in science writing?**
+>    [http://casw.org/casw/how-do-i-get-started-science-writing](http://casw.org/casw/how-do-i-get-started-science-writing)
+> 2. **A Field Guide for Science Writers** – Deborah Blum & Mary Knudson (eds.)
+> 3. **On Writing Well** – William Zinsser
+> 4. **The Science Writers’ Handbook** – Thomas Hayden & Michelle Nijhuis (eds.)
+> 5. **National Association of Science Writers (NASW)** – [https://www.nasw.org/](https://www.nasw.org/)
+>
+> *If you only explore one section of this list, start here.*
+
 A curated, community-driven list of **books, programs, organizations, publications, and opportunities** for **science writers, science journalists, and science communicators**.
 
 Whether you’re a student exploring science writing, a researcher transitioning into journalism, or a working freelancer looking for new opportunities, this list is meant to be a **practical, living reference**.
