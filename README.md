@@ -28,6 +28,39 @@ Science writing sits at the intersection of research, storytelling, and public u
 
 ---
 
+## Learning paths
+
+Not sure where to begin? These suggested paths highlight a small, high‑impact subset of resources depending on your background and goals.
+
+### 🎓 Student or early‑career writer
+
+If you’re new to science writing or considering it as a career:
+
+* Start with **CASW’s “How do I get started?”** guide
+* Read *A Field Guide for Science Writers* and *On Writing Well*
+* Explore graduate programs listed below (especially programs with strong reporting components)
+* Follow major outlets like *Science News*, *Nature News*, and *Scientific American* to learn tone and structure
+
+### 🔬 Researcher transitioning into writing
+
+If you’re coming from academia or industry:
+
+* Read *Escape from the Ivory Tower* and *Explaining Research*
+* Study how outlets like *Science*, *Nature*, and *The New York Times* translate complex work for broad audiences
+* Join organizations like **NASW** or **AMWA** to connect with working writers
+* Look into fellowships such as **AAAS Science & Technology Fellowships**
+
+### ✍️ Freelancer or professional science writer
+
+If you’re already writing and want to level up:
+
+* Use *The Science Writers’ Handbook* for pitching and career strategy
+* Track internships, fellowships, and short‑term programs listed below
+* Regularly read *Wired*, *Discover*, *Smithsonian*, and *Science Friday* to spot pitching opportunities
+* Contribute to this list to help others — and increase your visibility
+
+---
+
 ## Getting started
 
 Introductory guides for learning what science writing is and how to begin:
